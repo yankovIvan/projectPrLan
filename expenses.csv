@@ -1,0 +1,6 @@
+date,employee,department,category,amount,description
+2026-05-20,Иванов А.,IT,Software,45000.00,Лицензия Figma
+2026-05-21,Петрова М.,Marketing,Events,120000.00,Конференция
+2026-05-22,Сидоров К.,HR,Training,35000.00,Курс для менеджеров
+2026-05-23,Козлова Е.,IT,Hardware,110000.00,Серверные комплектующие
+2026-05-24,Новиков Д.,Operations,Logistics,95000.00,Доставка оборудования
